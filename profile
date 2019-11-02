@@ -12,7 +12,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://pigrampacket.oss-cn-hongkong.aliyuncs.com/ios/pigram1.ipa</string>
+                    <string>https://pigrampacket.oss-cn-hongkong.aliyuncs.com/ios/pigram.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
